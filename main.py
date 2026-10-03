@@ -1,4 +1,4 @@
-print("Welcome from branch 1")
+print("Welcome from both branches")
 
 
 def greet(name):
