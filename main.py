@@ -1,4 +1,4 @@
-print("Welcome to Team Project")
+print("Welcome from branch 2")
 
 
 def greet(name):
