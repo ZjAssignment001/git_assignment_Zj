@@ -6,3 +6,4 @@ def greet(name):
 
 
 print(greet("Zujaja"))
+print("Debug line")
